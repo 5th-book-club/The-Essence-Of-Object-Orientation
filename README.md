@@ -6,7 +6,7 @@
 
 ### 참여한 사람들
 [`Safari`](https://github.com/saafaaari), [`dudu`](https://github.com/FirstDo), [`minseong`](https://github.com/Minseong-yagom)
-    ,[`Tiana`](https://github.com/Kim-TaeHyun-A), [`Eddy`](https://github.com/kimkyunghun3), [`Donnie`](https://github.com/westeastyear), [`Lingo`](https://github.com/llingo)
+    ,[`Tiana`](https://github.com/Kim-TaeHyun-A), [`Eddy`](https://github.com/kimkyunghun3), [`Donnie`](https://github.com/westeastyear), [`Lingo`](https://github.com/llingo), [`malrang`](https://github.com/malrang-malrang)
 </div>
 
 
